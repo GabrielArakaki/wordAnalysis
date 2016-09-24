@@ -1,0 +1,24 @@
+{
+  "name": "wordanalysis",
+  "version": "1.0.0",
+  "description": "Word Analysis",
+  "main": "script.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GabrielArakaki/wordAnalysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielArakaki/wordAnalysis/issues"
+  },
+  "homepage": "https://github.com/GabrielArakaki/wordAnalysis"
+}
