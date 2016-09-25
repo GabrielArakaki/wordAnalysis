@@ -4,7 +4,7 @@
   "description": "Word Analysis",
   "main": "script.js",
   "dependencies": {
-    "async": "^2.0.1",
+    "json2csv": "^3.7.0",
     "lodash": "^4.15.0"
   },
   "devDependencies": {},
